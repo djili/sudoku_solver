@@ -1,0 +1,4 @@
+\babel@toc {french}{}
+\beamer@sectionintoc {1}{Objectif}{3}{0}{1}
+\beamer@sectionintoc {2}{Les contraintes}{4}{0}{2}
+\beamer@sectionintoc {3}{Visualisation des resultats}{6}{0}{3}
